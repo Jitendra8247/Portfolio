@@ -5,8 +5,8 @@ const experiences = [
   {
     role: 'Data Science Intern',
     company: 'Techie Shubhdeep IT Solutions Pvt. Ltd.',
-    period: 'june 2025 - Present',
-    description: 'Pursuing a Data Science internship, gaining hands-on experience in machine learning, deep learning, and image processing. Building AI models, handling real-world datasets, and deploying scalable solutions using Python, Flask, OpenCV, and TensorFlow.',
+    period: 'June 2025 – December 2025',
+    description: 'Completed a Data Science internship, gaining hands-on experience in machine learning, deep learning, and image processing. Building AI models, handling real-world datasets, and deploying scalable solutions using Python, Flask, OpenCV, and TensorFlow.',
   },
 ];
 
